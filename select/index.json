@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "君結び",
+  "base_artist": "RiRiE",
+  "createdAt": "2026-02-22T18:15:38.271198Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君結び",
+      "artist": "RiRiE",
+      "has_synced": true,
+      "path": "select/01_君結び_RiRiE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君結び",
+      "artist": "RiRiE",
+      "has_synced": false,
+      "path": "select/pl_01_君結び_RiRiE.txt"
+    }
+  ]
+}
